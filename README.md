@@ -24,6 +24,22 @@ with (new Terminal()) {
 
 ```
 
+You can also use blessings to navigate the terminal:
+
+```
+
+var Terminal = require('blessings')
+
+with (new Terminal()) {
+	write(moveUp)
+	clearLine()
+	writeln(italic('W00T'))
+	write(moveDown(2) + moveRight)
+	write(bold('ggg'))
+}
+
+```
+
 ## License
 
 MIT License
