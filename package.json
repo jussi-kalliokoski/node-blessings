@@ -1,0 +1,25 @@
+{
+  "name": "blessings",
+  "version": "0.0.0",
+  "description": "A port of python blessings.",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jussi-kalliokoski/node-blessings.git"
+  },
+  "keywords": [
+    "blessings",
+    "curses",
+    "cli",
+    "tty",
+    "ncurses",
+    "style",
+    "color",
+    "console"
+  ],
+  "author": "Jussi Kalliokoski <jussi.kalliokoski@gmail.com>",
+  "license": "MIT"
+}
