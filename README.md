@@ -26,7 +26,7 @@ with (new Terminal()) {
 
 You can also use blessings to navigate the terminal:
 
-```
+```javascript
 
 var Terminal = require('blessings')
 
