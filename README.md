@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jussi-kalliokoski/node-blessings.png)](http://travis-ci.org/jussi-kalliokoski/node-blessings)
 # Blessings
 
 This is a node.js port of [blessings](http://pypi.python.org/pypi/blessings/), an easy to use library for manipulating ANSITERM terminals.
